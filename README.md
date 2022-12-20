@@ -1,2 +1,3 @@
-# Business-Statistical-Analysis
-E-news Express Project
+# E-news Express Project
+## Problem Statement: E-news Express is an online news portal that aims to expand its business by acquiring new subscribers. Every visitor to the website takes certain actions based on their interest. The company plans to analyze these interests and wants to determine whether a new feature will be effective or not. Companies often analyze users' responses to two variants of a product to decide which of the two variants is more effective. This experimental technique is known as a/b testing that is used to determine whether a new feature attracts users based on a chosen metric.
+## Objective : To Perform the statistical analysis to decide wether the new landing page is more effective to attract and bring in new subscribers for the online news portal.The answers of the questions obtained from the statistical analysis performed will help make a decision and business recommendations.
