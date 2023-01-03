@@ -1,3 +1,15 @@
-# E-news Express Project
+![Slide1](https://user-images.githubusercontent.com/120951914/210364281-bd37da66-e515-4fc7-8b43-386c184d23c1.jpg)
 ## Problem Statement: E-news Express is an online news portal that aims to expand its business by acquiring new subscribers. Every visitor to the website takes certain actions based on their interest. The company plans to analyze these interests and wants to determine whether a new feature will be effective or not. Companies often analyze users' responses to two variants of a product to decide which of the two variants is more effective. This experimental technique is known as a/b testing that is used to determine whether a new feature attracts users based on a chosen metric.
-## Objective : To Perform the statistical analysis to decide wether the new landing page is more effective to attract and bring in new subscribers for the online news portal.The answers of the questions obtained from the statistical analysis performed will help make a decision and business recommendations.
+![Slide2](https://user-images.githubusercontent.com/120951914/210364860-1caf90e8-bcb1-4f5f-bc6c-ae671822a21f.jpg)
+![Slide3](https://user-images.githubusercontent.com/120951914/210364917-9038160b-7116-44ab-8e0d-41c0db8b4d45.jpg)
+![Slide4](https://user-images.githubusercontent.com/120951914/210364947-1229c0d1-2186-4119-9eda-7ef1bdbfa4be.jpg)
+![Slide5](https://user-images.githubusercontent.com/120951914/210364963-9c0166ed-ae7b-4d6b-9405-a6516b00d8de.jpg)
+![Slide6](https://user-images.githubusercontent.com/120951914/210364976-9058d13d-8d5a-4f26-8beb-7fa36c23b51e.jpg)
+![Slide7](https://user-images.githubusercontent.com/120951914/210365009-637d7309-47af-4ca0-a161-8dbb78435682.jpg)
+![Slide8](https://user-images.githubusercontent.com/120951914/210365031-e7bc9109-fa1e-4c6e-8cee-97119d77f242.jpg)
+![Slide9](https://user-images.githubusercontent.com/120951914/210365060-f3260e6a-a4bb-4e01-a045-df713792a557.jpg)
+![Slide10](https://user-images.githubusercontent.com/120951914/210365317-3e08f2a2-52f6-4d42-9c92-5f28d430e192.jpg)
+![Slide11](https://user-images.githubusercontent.com/120951914/210365336-54a03180-f538-4780-b98c-7eaba1c47e9c.jpg)
+![Slide12](https://user-images.githubusercontent.com/120951914/210365365-74a536d2-4ea6-45ab-b2c4-37e252f27266.jpg)
+![Slide13](https://user-images.githubusercontent.com/120951914/210365413-2bab3e65-1b75-4eb7-8bc8-df58ecbbde36.jpg)
+![Slide14](https://user-images.githubusercontent.com/120951914/210365429-3282e3d4-a41f-45ef-9d61-262129cc52fb.jpg)
